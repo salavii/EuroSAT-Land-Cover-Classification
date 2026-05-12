@@ -40,7 +40,7 @@ Experiments include:
 EuroSAT-Land-Cover-Classification/
 │
 ├── notebooks/
-│   └── EuroSAT.ipynb
+│   └── EuroSAT .ipynb
 │
 ├── requirements.txt
 └── README.md
@@ -98,7 +98,7 @@ Classes include:
 
 Main notebook:
 
-- [`EuroSAT.ipynb`](notebooks/EuroSAT.ipynb)
+- [`EuroSAT .ipynb`](notebooks/EuroSAT%20.ipynb)
 
 The notebook includes:
 
